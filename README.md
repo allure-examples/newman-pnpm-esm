@@ -1,6 +1,6 @@
 # Allure Example
 
-> Example of Allure Report usage with Newman, pnpm, ESM and JavaScript
+> Example of Allure Report usage with Newman, pnpm and ESM
 
 <!--<img src="https://allurereport.org/public/img/allure-report.svg" alt="Allure Report logo" style="float: right" />-->
 
